@@ -143,10 +143,6 @@ hr {
   align-items: flex-start;
 }
 
-.copyright {
-  padding: 1rem 0 2rem;
-}
-
 @keyframes bounce {
   0%,
   20%,
